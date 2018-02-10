@@ -1,0 +1,16 @@
+D:\ES_CRUD\C#\CRUDElasticsearch\bin\Debug\CRUDElasticsearch.exe.config
+D:\ES_CRUD\C#\CRUDElasticsearch\bin\Debug\CRUDElasticsearch.exe
+D:\ES_CRUD\C#\CRUDElasticsearch\bin\Debug\CRUDElasticsearch.pdb
+D:\ES_CRUD\C#\CRUDElasticsearch\bin\Debug\Elasticsearch.Net.dll
+D:\ES_CRUD\C#\CRUDElasticsearch\bin\Debug\Nest.dll
+D:\ES_CRUD\C#\CRUDElasticsearch\bin\Debug\Newtonsoft.Json.dll
+D:\ES_CRUD\C#\CRUDElasticsearch\bin\Debug\Elasticsearch.Net.xml
+D:\ES_CRUD\C#\CRUDElasticsearch\bin\Debug\Nest.xml
+D:\ES_CRUD\C#\CRUDElasticsearch\bin\Debug\Newtonsoft.Json.xml
+D:\ES_CRUD\C#\CRUDElasticsearch\obj\Debug\CRUDElasticsearch.csprojResolveAssemblyReference.cache
+D:\ES_CRUD\C#\CRUDElasticsearch\obj\Debug\CRUDElasticsearch.Form1.resources
+D:\ES_CRUD\C#\CRUDElasticsearch\obj\Debug\CRUDElasticsearch.Properties.Resources.resources
+D:\ES_CRUD\C#\CRUDElasticsearch\obj\Debug\CRUDElasticsearch.csproj.GenerateResource.Cache
+D:\ES_CRUD\C#\CRUDElasticsearch\obj\Debug\CRUDElasticsearch.csproj.CoreCompileInputs.cache
+D:\ES_CRUD\C#\CRUDElasticsearch\obj\Debug\CRUDElasticsearch.exe
+D:\ES_CRUD\C#\CRUDElasticsearch\obj\Debug\CRUDElasticsearch.pdb
